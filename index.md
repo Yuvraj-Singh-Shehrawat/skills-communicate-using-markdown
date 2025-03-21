@@ -8,3 +8,5 @@ printf("Hello World");
 ```javascript
 var myVar = "Hello, world!";
 ```
+- [x] Learn Markdown
+- [ ] Complete DSA Labsheet
